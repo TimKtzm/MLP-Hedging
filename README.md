@@ -3,7 +3,7 @@
 Application of a Multi-Layer Perceptron-Based Model to Option Pricing & Hedging.
 Here is the code I wrote to design the MLP model used to hedge European options as part of my Master's thesis at the IÉSEG School of Management.
 
-[Link to my thesis]()
+[Link to my thesis](https://drive.google.com/file/d/1IErxB6Qyyb2qrTYAJkh7GQ5gvxgNAIOe/view?usp=sharing)
 
 ## Author
 
