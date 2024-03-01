@@ -23,7 +23,7 @@ The code consists of 3 folders (1 for IV, 1 for GARCH forcasted volatility, 1 fo
   -	pricing_results: creates a table of pricing results
   -	Hedging_results: creates a table of hedging results
   -	Other files with the "func" suffix contain functions only
-  -	The remaining files provide additional information on results and model architectu
+  -	The remaining files provide additional information on results and model architecture
 
 #### What files do I need?
 
